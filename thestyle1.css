@@ -1,0 +1,30 @@
+body {
+background-image;url(‘Flower.jpg’);
+background-repeat:no-repeat;
+background-size:900px 800px
+}
+h1 {
+text-align:center;
+background color:FFFFFF;
+}
+    div {
+text-align:center;
+background-color:#000000;
+font-size:20px;
+border:3px solid white;
+color:#FFFF00;
+}
+table, td, th
+{
+border:1px solid green;
+padding:15px;
+}
+th
+{
+background-color:green;
+color:white;
+}
+a:hover,a:active
+{
+background-color:
+}
